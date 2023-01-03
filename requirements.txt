@@ -1,0 +1,4 @@
+EsiPy==1.2.3
+pandas==1.5.2
+PyYAML==6.0
+termcolor==2.1.1
